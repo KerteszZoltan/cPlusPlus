@@ -1,4 +1,4 @@
-# C++ beadandó feladat.
+# C++ beadandó feladat
 ## Gépjármű nyilvántartó
 
 Írjon gépnyilvántartó programot, mely egy munkagépeket, teherautókat és autóbuszokat üzemeltető cég heti járműigénybevételét tárolja!
